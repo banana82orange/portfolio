@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { personal } from '../data/mockData';
 
 interface NavbarProps {
   theme: 'light' | 'dark';

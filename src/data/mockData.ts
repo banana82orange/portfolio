@@ -13,6 +13,7 @@ export const personal = {
 // Statistics
 export const stats = {
   projectsCompleted: 4,
+  yearsExperience: 0,
 };
 
 // Social Links
